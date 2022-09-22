@@ -157,12 +157,6 @@ spacy==2.3.7
 srsly==1.0.5
 stack-data==0.3.0
 starlette==0.13.6
-tensorboard==2.9.1
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.9.1
-tensorflow-estimator==2.9.0
-tensorflow-io-gcs-filesystem==0.26.0
 termcolor==1.1.0
 terminado==0.15.0
 thinc==7.4.5
